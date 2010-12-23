@@ -1,0 +1,1 @@
+﻿package {	import flash.display.SimpleButton;	public class bouton_submit_ extends SimpleButton {		public function bouton_submit_() {		}	}}

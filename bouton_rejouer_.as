@@ -1,0 +1,1 @@
+﻿package{	import flash.display.SimpleButton;		public class bouton_rejouer_ extends SimpleButton{	}}

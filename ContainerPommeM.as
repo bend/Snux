@@ -1,0 +1,1 @@
+﻿package {	import flash.display.MovieClip;	public class ContainerPommeM extends MovieClip {		private var pomme:MovieClip;		public function ContainerPommeM(pos_x:Number, pos_y:Number) {			this.x=pos_x;			this.y=pos_y;		}		public function addContainerPommeM():MovieClip {			pomme= new PommeMarron();			this.addChild(pomme);			return this;		}	}//fin class}//fin package

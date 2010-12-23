@@ -1,0 +1,1 @@
+﻿package {	import flash.display.MovieClip;	public class ScoreBarre extends MovieClip {		public function ScoreBarre() {		}	}}

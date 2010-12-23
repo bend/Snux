@@ -1,0 +1,1 @@
+﻿package {	import flash.display.MovieClip;	public class EcranPause extends MovieClip {		public function EcranPause() {		}	}}

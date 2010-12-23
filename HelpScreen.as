@@ -1,0 +1,1 @@
+﻿package {	import flash.display.MovieClip;	public class HelpScreen extends MovieClip {		public function HelpScreen() {		}	}}

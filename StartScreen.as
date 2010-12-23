@@ -1,0 +1,1 @@
+﻿package {	import flash.display.Sprite;	import flash.display.MovieClip;	import flash.display.SimpleButton;	import flash.events.MouseEvent;	public class StartScreen extends Sprite {		public function StartScreen() {		}	}}

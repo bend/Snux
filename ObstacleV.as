@@ -1,0 +1,1 @@
+﻿package {	import flash.display.MovieClip;	public class ObstacleV extends MovieClip {		public function ObstacleV() {		}	}}

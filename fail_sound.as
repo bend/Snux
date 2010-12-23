@@ -1,0 +1,1 @@
+﻿package {	import flash.media.Sound;	public class fail_sound extends Sound {	}}

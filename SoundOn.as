@@ -1,0 +1,1 @@
+﻿package {	import flash.display.MovieClip;	public class SoundOn extends MovieClip {		public function SoundOn() {		}	}}

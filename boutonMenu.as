@@ -1,0 +1,1 @@
+﻿package {	import flash.display.SimpleButton;	public class boutonMenu extends SimpleButton {		public function boutonMenu() {		}	}}
